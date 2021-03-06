@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ancient_phoenix.mk
+    $(LOCAL_DIR)/cherish_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    ancient_phoenix-user \
-    ancient_phoenix-userdebug \
-    ancient_phoenix-eng
+    cherish_phoenix-user \
+    cherish_phoenix-userdebug \
+    cherish_phoenix-eng
